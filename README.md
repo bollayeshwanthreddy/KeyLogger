@@ -8,3 +8,6 @@ Download some python libraries
      pywin32 : https://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
 2) # pyhook‘  
      pyhook‘ :https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
+Save the file in C:\ as Keylogger.py and run thepython file
+Output:
+The keylogger will be started in the background and save all the data on the log file “c:\log.txt”.
