@@ -4,5 +4,7 @@ So lets get started. First of all in case you are not aware keylogger is a a com
 Keylogger for Windows
 
 Download some python libraries
-1) # pywin32 : https://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
-2) # pyhook‘ : https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
+1) # pywin32 
+     pywin32 : https://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
+2) # pyhook‘  
+     pyhook‘ :https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
